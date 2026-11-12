@@ -10,8 +10,4 @@
 🌑🌑🌑🌕🌕🌑🌑🌑🌑🌑🌕🌕🌑🌑🌑🌑🌕🌕🌑🌑🌑🌔🌕🌕🌕🌕🌕🌖🌑🌑🌕🌕🌗🌑🌑🌒🌕🌕🌑
 🌑🌑🌑🌕🌕🌑🌑🌑🌑🌑🌕🌕🌑🌑🌑🌑🌕🌕🌑🌑🌑🌑🌑🌑🌕🌕🌗🌑🌑🌑🌕🌕🌗🌑🌑🌑🌔🌕🌖
 ]]--
-loadstring(game:HttpGet("https://pastefy.app/5JxBVNsZ/raw"))()
-loadstring(game:HttpGet("https://pastefy.app/efgqPBvB/raw"))()
-loadstring(game:HttpGet("https://pastefy.app/jvF4jnPb/raw"))()
-loadstring(game:HttpGet("https://pastefy.app/0VPs4WsU/raw"))()
-loadstring(game:HttpGet("https://pastefy.app/WwYewSW1/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/c18dHEpp/raw"))()
