@@ -10,4 +10,4 @@
 🌑🌑🌑🌕🌕🌑🌑🌑🌑🌑🌕🌕🌑🌑🌑🌑🌕🌕🌑🌑🌑🌔🌕🌕🌕🌕🌕🌖🌑🌑🌕🌕🌗🌑🌑🌒🌕🌕🌑
 🌑🌑🌑🌕🌕🌑🌑🌑🌑🌑🌕🌕🌑🌑🌑🌑🌕🌕🌑🌑🌑🌑🌑🌑🌕🌕🌗🌑🌑🌑🌕🌕🌗🌑🌑🌑🌔🌕🌖
 ]]--
-loadstring(game:HttpGet("https://pastefy.app/p8gKaV38/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/46ccjjUk/raw"))()
